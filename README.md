@@ -1,6 +1,3 @@
-# ISL
+# Google Cloud & NCAA Kaggle Competition
 
-We will read and solve exercises of the books: Think Stats: Probability and
-Statistics for Programmers and Introduction to Statistical Learning. 
-
-We will use Python to solve exercises. 
+We have some historical team statistics and their visuals also we would like to predict NCAA winner of a given year.
